@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simpl_cousins\n"
+"POT-Creation-Date: 2013-08-06 10:00+1200\n"
+"PO-Revision-Date: 2013-08-06 10:00+1200\n"
+"Last-Translator: Kiwi <admin@kiwitrees.net>\n"
+"Language-Team: Kiwitrees <admin@kiwitrees.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: translate;noop;plural:1,2\n"
+"X-Poedit-Basepath: ..\\..\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: module.php:36
+msgid "Wooc Research Links"
+msgstr "Wooc Odnośniki poszukiwań"
+
+msgid "Research links"
+msgstr "Odnośniki poszukiwań"
+
+#: module.php:41
+msgid "A sidebar tool to provide quick links to popular research web sites."
+msgstr "Narzędzie panelu bocznego zapewniające szybki dostęp do popularnych stron internetowych umożliwiających wyszukiwanie przodków."
+
+msgid "Check the plugins you want to use in the sidebar"
+msgstr "Zaznacz wtyczki, które mają być użyte w panelu bocznym"
+
+#: modules_v3\fancy_research_links/module.php:125
+msgid "The settings will be reset to default. Are you sure you want to do this?"
+msgstr "Ustawienia zostaną przywrócone do ustawień domyślnych. Czy na pewno wykonać to?"
+
+#: modules_v3\fancy_research_links/module.php:215
+msgid "There are no research links available for this individual."
+msgstr "Brak odnośników poszukiwań dla wybranej osoby."
